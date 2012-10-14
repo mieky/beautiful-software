@@ -1,3 +1,6 @@
+Software is beautiful
+=====================
+
 Software has always been to me a source of inspiration and a thing of beauty. It fascinates me how there is always more to learn.
 
 Creating great software is hugely rewarding in itself, but even more important is the journey of getting there. The journey is where you learn new things, discover new approaches and ways of looking at the world, and surround yourself with people that constantly make you want to exceed yourself, try something you've never tried before, and enjoy yourself just being around them.
